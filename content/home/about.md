@@ -12,5 +12,3 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
-
-Hi!. My name is Hariharan Jayashankar. I am currently a Research Associate in the (Center for Advance Financial Research and Learning)[http://www.cafral.org.in/].
