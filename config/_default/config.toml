@@ -18,6 +18,9 @@ copyright = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
+# Where to output the final page when runnng "hugo" command in terminal
+publishDir = "../HariharanJayashankar.github.io"
+
 ############################
 ## Advanced options below ##
 ############################

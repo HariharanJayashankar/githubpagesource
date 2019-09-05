@@ -5,7 +5,7 @@
 #   Latest themes (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "dark"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -68,7 +68,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "hariharan.jayashankar@gmail.com"
-phone = "+91 (0) 9819202204"
+phone = ""
 address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -80,7 +80,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/notsocialfatman"},
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/notsocialfatman"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -133,10 +133,10 @@ reading_time = true
 
 # Display next/previous section pager? (true/false)
 section_pager = false
-docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
+docs_section_pager = false  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Configuration of publication pages.
 [publications]

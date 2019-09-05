@@ -61,4 +61,4 @@ email: "hariharan.jayashankar@gmail.com"
 # - Visitors
 ---
 
-Hi! I am Hariharan Jayashankar. I currently work as a Research Associate at the Center for Advance Financial research and learning. My interests include monetary economics, financial inclusion, and inequality.
+Hi! I am Hariharan Jayashankar. I currently work as a Research Associate at the Center for Advance Financial Research and Learning. My interests include monetary economics, financial inclusion, and inequality.
